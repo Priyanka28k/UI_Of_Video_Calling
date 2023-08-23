@@ -1,3 +1,3 @@
 # UI_Of_Video_Calling
-<h1>Screenshot 1</h1>
-<img src= "Screenshot (165).png">
+![Screenshot (165)](https://github.com/Priyanka28k/UI_Of_Video_Calling/assets/104508277/4490c590-ea95-4103-a851-ee81e70ca10a)
+
